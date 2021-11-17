@@ -25,3 +25,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-1f2c40?style=for-the-badge&logo=Node.js)
 ![1С-предприятие](https://img.shields.io/badge/1С:ПРЕДПРИЯТИЕ-1f2c40?style=for-the-badge&logo=1С-ПРЕДПРИЯТИЕ)
 ![ESLint](https://img.shields.io/badge/ESLint-1f2c40?style=for-the-badge&logo=ESLint)
+
+
+Контакты:
+
+[![@stanislav_ponomarev](https://img.shields.io/badge/@stanislav__ponomarev-1f2c40?style=flat-square&logo=telegram)](https://t.me/stanislav_ponomarev)
+[![chemburleno@yandex.ru](https://img.shields.io/badge/chemburleno@yandex.ru-1f2c40?style=flat-square&logo=Mail.Ru)](mailto:chemburleno@yandex.ru)
