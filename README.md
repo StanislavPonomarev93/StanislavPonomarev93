@@ -1,4 +1,8 @@
-## Привет! &#128075; Меня зовут Станислав, я начинающий фронтенд разработчик &#128526;	
+## Привет! &#128075; Меня зовут Станислав, я фронтенд разработчик &#128526;	
+
+* **Закончил обучение на фронтенд разработчика в 2020г. в `Яндекс Практикуме`**
+* **Работаю на фрилансе с начала 2021г.**
+
 ## Мои навыки &#128071;
 
 ![html5](https://img.shields.io/badge/HTML5-1f2c40?style=for-the-badge&logo=HTML5)
@@ -7,6 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2c40?style=for-the-badge&logo=JavaScript)
 ![jQuery](https://img.shields.io/badge/jQuery-1f2c40?style=for-the-badge&logo=jQuery)
 ![react](https://img.shields.io/badge/React-1f2c40?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/Redux-1f2c40?style=for-the-badge&logo=Redux)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2c40?style=for-the-badge&logo=TypeScript)
 ![WordPress](https://img.shields.io/badge/WordPress-1f2c40?style=for-the-badge&logo=WordPress)
 ![Express.js](https://img.shields.io/badge/Express-1f2c40?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2c40?style=for-the-badge&logo=MongoDB)
@@ -17,6 +23,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-1f2c40?style=for-the-badge&logo=GitHub)
 ![Postman](https://img.shields.io/badge/Postman-1f2c40?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/Figma-1f2c40?style=for-the-badge&logo=Figma)
+![ESLint](https://img.shields.io/badge/ESLint-1f2c40?style=for-the-badge&logo=ESLint)
 
 
 ## Немного познакомился с
@@ -24,7 +31,7 @@
 ![Java](https://img.shields.io/badge/Java-1f2c40?style=for-the-badge&logo=Java)
 ![Node.js](https://img.shields.io/badge/Node.js-1f2c40?style=for-the-badge&logo=Node.js)
 ![1С-предприятие](https://img.shields.io/badge/1С:ПРЕДПРИЯТИЕ-1f2c40?style=for-the-badge&logo=1С-ПРЕДПРИЯТИЕ)
-![ESLint](https://img.shields.io/badge/ESLint-1f2c40?style=for-the-badge&logo=ESLint)
+
 
 
 Контакты:
