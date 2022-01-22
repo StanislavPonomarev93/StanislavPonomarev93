@@ -1,6 +1,6 @@
 ## Привет! &#128075; Меня зовут Станислав, я фронтенд разработчик &#128526;	
 
-* **Закончил обучение на фронтенд разработчика в 2020г. в** ***`Яндекс Практикуме`*** &#128104;&#8205;&#127891;
+* **Закончил обучение на фронтенд разработчика в 2020г. в** __`Яндекс Практикуме`__
 * **Работаю на фрилансе с начала 2021г.**
 
 ## Мои навыки &#128071;
@@ -33,8 +33,15 @@
 ![1С-предприятие](https://img.shields.io/badge/1С:ПРЕДПРИЯТИЕ-d1bd08?style=flat&logo=1С-ПРЕДПРИЯТИЕ)
 
 
-
 Контакты:
 
 [![@stanislav_ponomarev](https://img.shields.io/badge/@stanislav__ponomarev-1f2c40?style=flat&logo=telegram)](https://t.me/stanislav_ponomarev)
 [![chemburleno@yandex.ru](https://img.shields.io/badge/chemburleno@yandex.ru-d1082d?style=flat&logo=Mail.Ru)](mailto:chemburleno@yandex.ru)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stanislavponomarev93&theme=blue-green)
+
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavponomarev93&theme=blue-green)
+
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stanislavponomarev93&theme=blue-green)
+
