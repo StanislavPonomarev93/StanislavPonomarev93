@@ -38,6 +38,7 @@
 [![@stanislav_ponomarev](https://img.shields.io/badge/@stanislav__ponomarev-1f2c40?style=flat&logo=telegram)](https://t.me/stanislav_ponomarev)
 [![chemburleno@yandex.ru](https://img.shields.io/badge/chemburleno@yandex.ru-d1082d?style=flat&logo=Mail.Ru)](mailto:chemburleno@yandex.ru)
 
+___
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stanislavponomarev93&theme=blue-green)
 
