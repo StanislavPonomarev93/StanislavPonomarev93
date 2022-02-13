@@ -40,9 +40,12 @@
 
 ___
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stanislavponomarev93&theme=blue-green)
-
-![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavponomarev93&theme=blue-green)
-
-![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stanislavponomarev93&theme=blue-green)
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=stanislavponomarev93&hide=contribs&show_icons=true">
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=stanislavponomarev93&hide=contribs&show_icons=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavponomarev93&layout=compact">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavponomarev93&layout=compact" />
+  </a>
+</div>
 
